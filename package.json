@@ -1,12 +1,22 @@
 {
   "name": "ohhappyday",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Smile",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corderophilosophy/ohhappyday.git"
+  },
   "author": "Rich Cordero <rich@corderophilosophy.com> (http://corderophilosophy.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corderophilosophy/ohhappyday/issues"
+  },
+  "homepage": "https://github.com/corderophilosophy/ohhappyday#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
